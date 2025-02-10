@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**gablvt/gablvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Gabriel! 🚀
+🎓 CS Student
+💻 I love coding, solving problems and learning new technologies.
 
-Here are some ideas to get you started:
+## 🌟 What you'll find here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Personal projects**
+- **Open-source contributions**
+- **Exercises & Study projects**
+
+## 🚀 Favorite technologies & tools
+
+- **Languages:** Python, camL, HTML, CSS, Node.
+
+Contact:
+
+Discord: bibougab
