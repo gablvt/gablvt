@@ -2,6 +2,7 @@
 
 Hi, I'm Gabriel! 🚀
 🎓 CS Student
+
 💻 I love coding, solving problems and learning new technologies.
 
 ## 🌟 What you'll find here:
