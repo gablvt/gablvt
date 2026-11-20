@@ -40,4 +40,4 @@ Computer Science undergraduate focusing on low-level programming, algorithms, an
 
 ### Contact
 
-Discord : bibougab
+Discord: bibougab
